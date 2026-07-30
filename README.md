@@ -39,7 +39,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
-
----
-
-Feel free to modify any sections as needed!
