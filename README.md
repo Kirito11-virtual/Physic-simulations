@@ -20,8 +20,8 @@ This repository provides a comprehensive simulation and measurement tool for ana
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/object-fall-simulation.git
-   cd object-fall-simulation
+   git clone https://github.com/username/Physic-simulations.git
+   cd Physic-simulations
    ```
 2. Install required packages:
    ```bash
